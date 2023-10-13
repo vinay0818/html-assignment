@@ -1,0 +1,5 @@
+1-HTML Tages-Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol. Whatever written inside < and > are called tags. 
+  example- <p>this is a car</p>.  where <p> and </p> is a tags. 
+
+2-HTML elements: Elements enclose the contents in between the tags. They consist of some kind of structure or expression. It generally consists of a start tag, content and an end tag. 
+ example- <p>this is a car</p>. where 'this is a car' is an element.
