@@ -1,0 +1,41 @@
+*{margin: 0; padding: 0;
+} 
+nav{ 
+    background-color: cornflowerblue; 
+    padding: 20px;
+    display: flex;}
+    
+a{ 
+color:#fff; 
+margin-left: 50px; 
+margin-right: 30px; 
+
+} 
+a:hover {
+    border: red  solid 1px;
+} 
+.content-1{ 
+    border-style: dotted ;  
+    border-color: black;
+    
+ } 
+ .content-2{ 
+    border-style:double ;  
+    border-color: rgb(235, 18, 18);
+    
+ } 
+ .content-3{ 
+    border-style: ridge ;  
+    border-color: rgb(13, 226, 24);
+    
+ } 
+ .content-4{ 
+    border-style: groove ;  
+    border-color: black;
+    
+ } 
+ .content-5{ 
+    border-style: dashed ;  
+    border-color: black;
+    
+ }
