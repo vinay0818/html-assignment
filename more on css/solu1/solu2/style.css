@@ -1,0 +1,18 @@
+*{ 
+   margin: 0
+   ;
+    padding: 0;
+} 
+img{ 
+    height:300px ; 
+    width: 400px; 
+    border-radius: 20px;
+} 
+div{ 
+    margin:  auto; 
+    background-color: #f8c42e;; 
+    width: 400px; 
+    padding: 20px; 
+    border-radius: 20px;
+   
+} 
