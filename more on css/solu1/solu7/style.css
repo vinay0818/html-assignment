@@ -1,0 +1,23 @@
+.courseImage {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    } 
+   
+    
+    div{ 
+       padding: 15px;
+       background-color: darkblue; 
+       width: 300px;  
+       margin: 0 auto;  
+border-radius: 4%; 
+opacity:0.9;
+      
+
+    } 
+    p{color: antiquewhite; } 
+    
+   div :hover{ 
+    opacity: 0.4;
+   }
+   
