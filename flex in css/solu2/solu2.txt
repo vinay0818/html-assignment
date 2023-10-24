@@ -1,0 +1,11 @@
+1-Align-items-In a flexbox container, the flexbox items are aligned on the cross axis, which is vertical by default (opposite of flex-direction). 
+
+2-GAP-The gap property defines the size of the gap between the rows and between the columns in flexbox.
+
+3-Flex-direction-The flex-direction property specifies the direction of the flexible items.
+
+Note: If the element is not a flexible item, the flex-direction property has no effect. 
+
+4-Flex-wrap-The flex-wrap property specifies whether the flexible items should wrap or not.
+
+Note: If the elements are not flexible items, the flex-wrap property has no effect.
