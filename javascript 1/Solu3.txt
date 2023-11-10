@@ -1,0 +1,18 @@
+Operators in JavaScript are categorized into three groups based on the number of operands they require.
+
+1-Unary operators: Have one operand. Examples include +, -, !, and typeof. 
+EXAMPLE-// The unary plus operator (+a) converts a string to a number.
+var a = "123";
+var b = +a; // b is 123
+
+2-Binary operators: Have two operands. Examples include +, -, /, *, %, <, >, <=, >=, ==, and !=.
+EXAMPLE-// The addition operator (+) adds two numbers.
+var a = 123;
+var b = 456;
+var c = a + b; // c is 579
+
+3-Ternary operators: Have three operands. The only ternary operator in JavaScript is the conditional operator, `? :`. 
+EXAMPLE-// The conditional operator (?) returns one of two values, depending on whether a condition is true or false.
+var a = 123;
+var b = 456;
+var c = a < b ? a : b; // c is 123

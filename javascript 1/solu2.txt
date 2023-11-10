@@ -1,0 +1,29 @@
+JavaScript operators can be categorized into eight types based on their functionality:
+
+1-Arithmetic operators: Perform basic arithmetic operations on operands. Examples: +, -, /, *, %
+2-Assignment operators: Assign values to variables. Examples: =, +=, -=, *=, /=
+3-Comparison operators: Compare values and return a Boolean value. Examples: ==, !=, <, <=, >, >=
+4-Logical operators: Combine multiple Boolean values into a single Boolean value. Examples: &&, ||, !
+5-Conditional operators: Evaluate a condition and return one of two values. Examples: `? :`
+6-Bitwise operators: Perform operations on the binary representation of numbers. Examples: &, |, ^, ~, <<, >>
+7-Unary operators: Perform operations on a single operand. Examples: +, -, ~, !
+8-Duplex operators: Perform operations on two operands. Examples: *, /, +, -, ==, != 
+
+Example-
+1-Arithmetic operators
+x + y - Add x and y and return the result. 
+
+2-Assignment operators
+x = y - Assign the value of y to x. 
+
+3-Comparison operators
+x == y - Compare x and y and return true if they are equal, otherwise return false.
+
+4-Logical operators
+x && y - Return true if both x and y are true, otherwise return false.
+
+5-Conditional operators
+`x ? y : z` - If x is true, return y, otherwise return z. 
+
+6-Bitwise operators
+x & y - Perform a bitwise AND operation on x and y and return the result.

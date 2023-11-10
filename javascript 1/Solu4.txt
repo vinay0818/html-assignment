@@ -1,0 +1,12 @@
+In JavaScript, operator precedence and associativity determine the order in which operators are evaluated in an expression.
+
+1-Operator precedence is a set of rules that determines which operators are evaluated first. For example, multiplication and division are evaluated before addition and subtraction.
+
+2-Associativity determines the order in which operators with the same precedence are evaluated. For example, multiplication and division are both left-associative, which means that they are evaluated from left to right.
+
+3-Understanding operator precedence and associativity is important for several reasons. First, it can help you to write more accurate and efficient code. Second, it can help you to understand the behavior of other JavaScript code. Third, it can help you to debug JavaScript code that is not working as expected.
+
+4-Here are some examples of how operator precedence and associativity can affect the evaluation of an expression:
+The expression 10 + 20 * 30 is evaluated as 10 + (20 * 30), not as (10 + 20) * 30. This is because multiplication has higher precedence than addition.
+
+5-The expression 100 / 10 * 10 is evaluated as (100 / 10) * 10, not as 100 / (10 * 10). This is because division has higher precedence than multiplication, and both division and multiplication are left-associative.
