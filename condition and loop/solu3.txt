@@ -1,0 +1,46 @@
+JavaScript Loops
+Loops are handy, if you want to run the same code over and over again, each time with a different value.
+Often this is the case when working with arrays: 
+
+Different Kinds of Loops
+JavaScript supports different kinds of loops:
+
+for - loops through a block of code a number of times
+for/in - loops through the properties of an object
+for/of - loops through the values of an iterable object
+while - loops through a block of code while a specified condition is true
+do/while - also loops through a block of code while a specified condition is true
+The For Loop; 
+
+The For Loop
+The for statement creates a loop with 3 optional expressions:
+
+for (expression 1; expression 2; expression 3) {
+  // code block to be executed
+} 
+
+The For In Loop
+The JavaScript for in statement loops through the properties of an Object:
+
+Syntax
+for (key in object) {
+  // code block to be executed
+}  
+
+The For Of Loop
+The JavaScript for of statement loops through the values of an iterable object.
+
+It lets you loop over iterable data structures such as Arrays, Strings, Maps, NodeLists, and more:
+
+Syntax
+for (variable of iterable) {
+  // code block to be executed
+}  
+ 
+The While Loop
+The while loop loops through a block of code as long as a specified condition is true.
+
+Syntax
+while (condition) {
+  // code block to be executed
+}
